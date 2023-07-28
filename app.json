@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "scheme": "acme",
+    "web": {
+      "bundler": "metro"
+    },
+    "name": "Youtube_App_RapidAPI",
+    "slug": "Youtube_App_RapidAPI"
+  }
+}
