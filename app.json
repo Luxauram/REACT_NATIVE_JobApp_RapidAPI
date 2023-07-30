@@ -4,8 +4,8 @@
     "web": {
       "bundler": "metro"
     },
-    "name": "Youtube_App_RapidAPI",
-    "slug": "Youtube_App_RapidAPI",
+    "name": "REACT_NATIVE_JobApp_RapidAPI",
+    "slug": "REACT_NATIVE_JobApp_RapidAPI",
     "extra": {
       "eas": {
         "projectId": "bb8d915f-8d10-4af3-96cc-e9cc6eb8c592"
