@@ -5,11 +5,19 @@
       "bundler": "metro"
     },
     "name": "REACT_NATIVE_JobApp_RapidAPI",
-    "slug": "REACT_NATIVE_JobApp_RapidAPI",
+    "slug": "react-native-job-app-rapidapi",
     "extra": {
       "eas": {
-        "projectId": "bb8d915f-8d10-4af3-96cc-e9cc6eb8c592"
+        "projectId": "4028ff6b-6361-4db4-a05e-a7328e4df1d3"
       }
-    }
+    },
+    "runtimeVersion": {
+      "policy": "sdkVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/4028ff6b-6361-4db4-a05e-a7328e4df1d3"
+    },
+    "android": {},
+    "ios": {}
   }
 }
